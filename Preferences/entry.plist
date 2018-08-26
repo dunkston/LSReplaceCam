@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>bundle</key>
+		<string>AppList</string>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>isController</key>
+		<true/>
+		<key>label</key>
+		<string>LSReplaceCam</string>
+		<key>ALSingleEnabledMode</key>
+		<true/>
+		<key>ALChangeNotification</key>
+		<string>com.dunkston.lsreplacecam.preferencesChanged</string>
+		<key>ALSettingsKey</key>
+		<string>app</string>
+		<key>ALSettingsPath</key>
+		<string>/var/mobile/Library/Preferences/com.dunkston.lsreplacecam.plist</string>
+	</dict>
+</dict>
+</plist>

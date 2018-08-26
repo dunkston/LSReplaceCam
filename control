@@ -1,0 +1,9 @@
+Package: com.dunkston.lsreplacecam
+Name: LSReplaceCam
+Depends: mobilesubstrate, applist
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Replace the Camera Page on the Lock Screen with Any App
+Maintainer: dunkston
+Author: dunkston
+Section: Tweaks
